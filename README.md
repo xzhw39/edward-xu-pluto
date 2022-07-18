@@ -25,6 +25,6 @@ THEN I am again presented with current and future conditions for that city
 
 ## Link to Work
 
-[Deployed Application](https://drive.google.com/file/d/1Z5O3rMjYUlmZ9lBPI7JJtxKg7jidJuyb/view?usp=sharing)
+[Deployed Application](https://xzhw39.github.io/edward-xu-pluto/)
 
 [GitHub](https://github.com/xzhw39/edward-xu-pluto)
